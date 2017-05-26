@@ -31,6 +31,6 @@
 
 Щоб інсталювати цей проект, потрібно клонувати його:
 
-:kbd:'git clone https://MaxVoloskiy/Coursework.git'
+:kbd:`git clone https://MaxVoloskiy/Coursework.git`
 
 Після клонування запустити modules/index.py
